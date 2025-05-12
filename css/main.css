@@ -56,7 +56,7 @@ header{
     font-weight: none;
     border-radius: 1.5rem;
     padding: 0.6rem;
-    transition: all 3s;
+    
     
 }
 main{
@@ -101,7 +101,7 @@ h1{
 .btn:hover{
     color: black;
     background-color: #FFFFFF;
-    transition: all 3s;
+
 }
 @media(max-width:57rem){
     .container{
